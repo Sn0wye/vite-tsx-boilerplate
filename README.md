@@ -43,6 +43,17 @@ yarn install
 
 ## Usage
 
+### For running the project, use:
+
+### yarn
+```
+yarn start
+```
+### npm
+```
+npm start
+```
+
 Start developing.
 
 Any files with extension `.js` can be linted against ESLint and Prettier
