@@ -8,7 +8,7 @@
 - [x] Preconfigured Eslint
 - [x] Preconfigured EditorConfig
 - [x] Sass
-- [x] Organized Folder Structure
+
 ## Set Up
 
 ### Via GitHub
