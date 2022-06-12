@@ -3,7 +3,6 @@
 - [x] Typescript
 - [x] React
 - [x] React Router Dom
-- [x] Vite Hot Module Replacement
 - [x] Preconfigured Prettier
 - [x] Preconfigured Eslint
 - [x] Preconfigured EditorConfig
