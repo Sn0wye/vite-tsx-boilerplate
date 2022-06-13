@@ -55,7 +55,7 @@ npm start
 
 Start developing.
 
-Any files with extension `.js` can be linted against ESLint and Prettier
+Any files with extension `.js, .jsx, .ts, .tsx` can be linted against ESLint and Prettier
 recommended rules.
 
 ### npm
